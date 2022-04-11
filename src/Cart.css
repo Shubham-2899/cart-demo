@@ -1,0 +1,15 @@
+.container{
+    height: 300px;
+    width: 50%;
+}
+.vegis{
+    height: 100px;
+    width: 500px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content:space-around;
+}
+.btn{
+    margin: 5px;
+}
